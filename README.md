@@ -1,2 +1,2 @@
-# Project
-##A console game im working on
+# Project01
+A console game im working on
