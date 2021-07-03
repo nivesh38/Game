@@ -1,2 +1,2 @@
 # Project01
-A c# console game I am working on.
+The base for a c# console game I am working on.
